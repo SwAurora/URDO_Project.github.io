@@ -67,6 +67,9 @@ a
     background: none;
     border: 1px solid var(--color-text);
     border-radius: 4px;
+    color:var(--color-blackToWhite);
+    padding-left:10px;
+    cursor:pointer;
 }
 
 .searchBar::placeholder
